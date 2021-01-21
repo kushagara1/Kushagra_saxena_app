@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">kush app</string>
+    <string name="textview" />
+    <string name="textview" />
+    <string name="textview" />
+    <string name="textview" />
+    <string name="textview" />
+    <string name="name">Name</string>
+    <string name="email">Email</string>
+    <string name="phone_no">Phone no.</string>
+    <string name="sub_domain">Sub Domain</string>
+    <string name="skills">Skills</string>
+    <string name="domain">Domain</string>
+    <string name="code_chef">Code Chef</string>
+    <string name="todo">TODO</string>
+</resources>
